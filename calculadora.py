@@ -7,17 +7,7 @@ if operacion == "+":
     resultado = numero1 + numero2
     print("el resultado de su suma es:", resultado)
 
-elif operacion == "-":
-    resultado = numero1 - numero2
-    print("el resultado de su resta es ", resultado)
 
-elif operacion == "*":
-    resultado = numero1 * numero2
-    print("el restultado de tu multiplacion es ", resultado)
-
-elif operacion == "/":
-    resultado = numero1 / numero2
-    print("el resultado de la division es ", resultado)
 
 
 
