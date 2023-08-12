@@ -7,6 +7,12 @@ if operacion == "+":
     resultado = numero1 + numero2
     print("el resultado de su suma es:", resultado)
 
+elif operacion == "-":
+    resultado = numero1 - numero2
+    print("el resultado de su resta es ", resultado)
+
+
+
 
 
 
